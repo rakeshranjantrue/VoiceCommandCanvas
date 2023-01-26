@@ -1,0 +1,19 @@
+body{
+	background-image: linear-gradient(#FAD61D, #E19720,#F62D14, #811E09, black);
+}
+
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 20px;
+	color: red;
+}
+canvas
+{
+	background: pink;
+	border-radius: 50px;
+}
+
